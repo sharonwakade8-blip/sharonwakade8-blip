@@ -92,18 +92,20 @@ focus:      LLMs · RAG · Reinforcement Learning · Predictive Modeling
 </details>
 
 ---
-
 ## 🛠️ Tech Arsenal
 
 <div align="center">
 
-**AI / ML**<br/>
+### 🤖 AI / ML
+
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark" alt="AI/ML" />
 
-**Data**<br/>
+### 📊 Data
+
 <img src="https://skillicons.dev/icons?i=pandas,numpy,postgres,mysql&theme=dark" alt="Data" />
 
-**Tools**<br/>
+### 🧰 Tools
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker&theme=dark" alt="Tools" />
 
 </div>
@@ -114,18 +116,21 @@ focus:      LLMs · RAG · Reinforcement Learning · Predictive Modeling
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sharonwakade8-blip&show_icons=true&hide_border=true&bg_color=0f0a1f&title_color=a78bfa&icon_color=8b5cf6&text_color=e9d5ff" alt="Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharonwakade8-blip&layout=compact&hide_border=true&bg_color=0f0a1f&title_color=a78bfa&text_color=e9d5ff" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sharonwakade8-blip&show_icons=true&hide_border=true&bg_color=0f0a1f&title_color=a78bfa&icon_color=8b5cf6&text_color=e9d5ff" alt="GitHub Stats" />
 
-<img src="https://streak-stats.demolab.com/?user=sharonwakade8-blip&hide_border=true&background=0f0a1f&ring=8b5cf6&fire=a78bfa&currStreakLabel=e9d5ff&sideLabels=e9d5ff&currStreakNum=e9d5ff&sideNums=e9d5ff&dates=a78bfa" alt="Streak" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharonwakade8-blip&layout=compact&hide_border=true&bg_color=0f0a1f&title_color=a78bfa&text_color=e9d5ff" alt="Top Languages" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=sharonwakade8-blip&theme=onedark&no-frame=true&margin-w=8&column=7" alt="Trophies" />
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=sharonwakade8-blip&hide_border=true&background=0f0a1f&ring=8b5cf6&fire=a78bfa&currStreakLabel=e9d5ff&sideLabels=e9d5ff&currStreakNum=e9d5ff&sideNums=e9d5ff&dates=a78bfa" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=sharonwakade8-blip&theme=onedark&no-frame=true&margin-w=8&column=7" alt="GitHub Trophies" />
 
 </div>
 
----
 
-<div align="center">
 
 ### 📬 Let's connect
 
