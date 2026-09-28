@@ -1,294 +1,248 @@
 <div align="center">
 
-# 👨‍💻 Sharon Wakade
+# 👋 Hi, I'm Sharon Wakade
 
-### `Data Scientist • AI/ML Engineer • Python Developer`
+### 🚀 Data Scientist | Machine Learning & AI | Python | NLP | Predictive Analytics
 
-**Building intelligent systems with Data, Machine Learning, Generative AI & LLMs.**
+Building **data-driven, production-oriented AI/ML solutions** that turn complex problems into practical applications.
 
-<br>
-
-<a href="https://github.com/sharonwakade8-blip">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-<a href="[YOUR_LINKEDIN]">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="[YOUR_PORTFOLIO]">
-<img src="https://img.shields.io/badge/Portfolio-00A67E?style=for-the-badge&logo=googlechrome&logoColor=white">
-</a>
-<a href="mailto:[YOUR_EMAIL]">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+<p>
+  <a href="https://github.com/sharonwakade8-blip">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/sharon-wakade-448058217">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:sharonwakade8@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 </div>
 
 ---
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                    SYSTEM INITIALIZED                       │
-│                                                              │
-│  user       : sharon-wakade                                  │
-│  role       : Data Scientist / AI-ML Engineer                 │
-│  environment: Python • AI • ML • Cloud                        │
-│  status     : Building intelligent systems                   │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+## 🦸‍♂️ My AI Journey
 
-## 🧠 About Me
+> **Data → Intelligence → Impact**
 
-I'm a **Data Science and AI/ML developer** interested in building practical intelligent applications using data, machine learning, and modern AI technologies.
+I am a **Data Scientist and Machine Learning professional** with hands-on internship experience in Python, machine learning, data analysis, NLP, and ML-powered applications.
 
-My focus is on developing systems that move beyond experimentation — from **data processing and model development to APIs, deployment, cloud infrastructure, and Generative AI applications**.
+I enjoy building end-to-end solutions — from data processing and model development to interactive dashboards and intelligent applications.
 
-```python
-developer = {
-    "name": "Sharon Wakade",
-    "role": "Data Scientist | AI/ML Engineer",
-    "primary_language": "Python",
+🎓 **M.Sc. Data Science & Machine Learning — SPPU & JKC, Pune, 2026**
 
-    "interests": [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Generative AI",
-        "LLMs",
-        "Data Science",
-        "RAG Systems",
-        "AI Applications"
-    ],
-
-    "currently_exploring": [
-        "LLM Applications",
-        "Prompt Engineering",
-        "Vector Databases",
-        "RAG",
-        "AI Agents",
-        "MLOps",
-        "System Design"
-    ]
-}
-```
+📍 **Pune, Maharashtra, India**
 
 ---
 
-## ⚡ Tech Stack
-
-### `AI / Machine Learning`
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark">
-</p>
-
-`Python` `Machine Learning` `Deep Learning` `NLP` `Generative AI` `LLMs`
-
-### `Backend`
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,django,fastapi&theme=dark">
-</p>
-
-`Python` `Django` `FastAPI` `REST APIs`
-
-### `Frontend`
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,javascript,html,css&theme=dark">
-</p>
-
-`React` `JavaScript` `HTML` `CSS`
-
-### `Databases`
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark">
-</p>
-
-`PostgreSQL` `MongoDB` `Redis` `Vector Databases`
-
-### `Cloud / DevOps`
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github&theme=dark">
-</p>
-
-`AWS` `Docker` `Git` `GitHub`
-
----
-
-## 🤖 Generative AI
+## ⚡ What I Work With
 
 ```text
-LLMs
- │
- ├── Prompt Engineering
- │
- ├── Embeddings
- │
- ├── Vector Search
- │
- ├── RAG
- │
- ├── AI Agents
- │
- └── Intelligent Applications
+Data Science        ████████████████████  Python • SQL • Pandas • NumPy
+Machine Learning    ████████████████████  Scikit-learn • LightGBM
+AI / NLP            ████████████████████  NER • Semantic Search • NLP
+Deep Learning       ██████████████████░░  ML-powered applications
+Reinforcement Learn ██████████████████░░  DQN • PPO
+Data Visualization  ███████████████████░  Matplotlib • Plotly • Streamlit
+Engineering         ██████████████████░░  Git • Docker • Airflow
+Frontend            ███████████████░░░░░  React • Vite • Tailwind
 ```
-
-Areas I'm exploring:
-
-* 🧠 Large Language Models
-* 🔎 Retrieval-Augmented Generation
-* 🗃️ Vector Databases
-* ✍️ Prompt Engineering
-* 🤖 AI Agents
-* 🔗 Embeddings & Semantic Search
-* ⚙️ LLM-powered APIs
 
 ---
 
-## 🦸 AI Developer Showcase
+## 🧠 Tech Stack
+
+### 🐍 Data Science & AI
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=sklearn" />
+</p>
+
+`Pandas` `NumPy` `Scikit-learn` `LightGBM` `NLP` `NER` `Semantic Search` `DQN` `PPO`
+
+### 📊 Data & Visualization
+
+`SQL` `Matplotlib` `Seaborn` `Plotly` `Streamlit` `Excel`
+
+### 🌐 Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,js" />
+</p>
+
+### ☁️ Engineering & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,airflow" />
+</p>
+
+`Jupyter` `Apache Airflow` `Git & GitHub`
+
+---
+
+# 🚀 Featured Projects
+
+## 🛡️ LexiGuard AI — Contract Intelligence & Risk Scoring
+
+An NLP/ML pipeline designed for automated legal contract analysis.
+
+**Highlights**
+
+* 🔍 Key-entity extraction
+* 📑 Clause classification
+* ⚠️ Contract risk scoring
+* 🔎 Semantic search
+* 📚 Trained using the CUAD dataset
+* 🧠 41 legal clause categories
+* 📄 500+ commercial contracts
+
+**Tech:** `Python` `NLP` `NER` `Clause Classification` `Semantic Search`
+
+---
+
+## ✈️ Airline Dynamic Pricing Using Reinforcement Learning
+
+A reinforcement-learning environment for demand-responsive airline ticket pricing.
+
+**Highlights**
+
+* Designed a custom airline booking simulation
+* Defined state, action and reward functions
+* Trained DQN/PPO agents
+* Evaluated revenue and seat occupancy
+* Compared results against fixed-price baselines
+* Visualized training and pricing trends
+
+**Tech:** `Python` `Reinforcement Learning` `DQN` `PPO` `Data Visualization`
+
+---
+
+## 🧬 VectorLoom — ML/DS Project Management Dashboard
+
+A centralized project and experiment management dashboard for data science teams.
+
+**Highlights**
+
+* 📊 Project tracking
+* 🧪 Experiment tracking
+* 📈 Analytics and visualization
+* 🎨 Dark navy interface
+* ⚛️ React + Vite frontend
+* 📦 Recharts analytics
+* 🐳 Docker support
+
+**Tech:** `React` `Vite` `Tailwind CSS` `JavaScript` `Python` `Apache Airflow` `Docker`
+
+---
+
+## 🏭 Contextual Predictive Maintenance — IoT Edge AI
+
+An IoT predictive-maintenance dashboard powered by a LightGBM model.
+
+**Highlights**
+
+* 🤖 LightGBM Edge AI model
+* 📊 Interactive Streamlit dashboard
+* 📈 Plotly visualizations
+* 🐼 Pandas-based processing
+* 🔎 Sidebar filtering
+* 🧪 App testing and smoke testing
+* ✅ Release validation
+
+**Tech:** `Python` `LightGBM` `Streamlit` `Plotly` `Pandas`
+
+---
+
+# 💼 Experience
+
+### 🔬 Data Science & Machine Learning with AI Intern
+
+**Infotact Solutions**
+
+* Developed ML models for predictive analytics
+* Designed and deployed a feature store
+* Improved data access and model version control
+
+### 🤖 Data Science & Machine Learning Intern
+
+**Zaalima Development Pvt. Ltd.**
+
+* Applied Python-based data processing
+* Worked with machine learning concepts
+* Developed ML-oriented application solutions
+
+### 🏦 Data Operations Executive
+
+**Exela Technology & HOV Service Pvt Ltd**
+
+* Managed banking client relationships through TMS
+* Automated data exchange using third-party integrations
+* Streamlined invoice processing and reconciliation
+
+---
+
+# 📚 Education
+
+🎓 **M.Sc. Data Science and Machine Learning**
+SPPU & JKC, Pune — 2026
+
+🎓 **B.Sc. Computer Science**
+SPPU & JKC, Pune — 2022
+CGPA: **72.23%**
+
+---
+
+# 🏆 Publication & Certifications
+
+📖 **International Publication — 2026**
+
+> *Ethical and Social Implications of Artificial Intelligence Systems*
+
+**Certifications**
+
+* Data Science and Machine Learning with AI — Infotact Solutions
+* Data Science & Machine Learning Internship — Zaalima Development Pvt. Ltd.
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="./Assets/output.gif" width="600" alt="AI Developer Animation">
+<img src="https://github-readme-stats.vercel.app/api?username=sharonwakade8-blip&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharonwakade8-blip&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=sharonwakade8-blip&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🏗️ What I Build
+# 🎯 Currently Focused On
 
-```text
-Data
- │
- ▼
-Exploration ──► Feature Engineering
- │
- ▼
-Machine Learning
- │
- ▼
-AI / LLM Layer
- │
- ▼
-API / Application
- │
- ▼
-Docker
- │
- ▼
-AWS / Cloud
-```
-
-I'm interested in building **end-to-end AI applications**, not just isolated models.
+* 🤖 Machine Learning & AI
+* 🧠 NLP and intelligent applications
+* 📊 Data Science & predictive analytics
+* 🔍 Semantic search and information extraction
+* 🧪 Reinforcement Learning
+* 🚀 Building production-oriented ML applications
+* ☁️ ML engineering and deployment
 
 ---
 
-## 🚀 Featured Projects
-
-### 🧠 Machine Learning
-
-Predictive models, classification, regression, clustering and data-driven applications.
-
-### 🤖 Generative AI
-
-LLM-powered applications, RAG pipelines, semantic search and AI assistants.
-
-### ⚡ AI APIs
-
-Production-style APIs using **FastAPI / Django** for serving intelligent applications.
-
-### ☁️ Deployment
-
-Containerized applications using **Docker** with cloud deployment concepts using **AWS**.
-
-> 🚧 Projects are continuously being developed and improved.
-
----
-
-## 📊 GitHub Analytics
+# 🤝 Let's Connect
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sharonwakade8-blip&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%">
+**Interested in Data Science, Machine Learning, AI, or building intelligent applications?**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharonwakade8-blip&layout=compact&theme=tokyonight&hide_border=true" width="42%">
+<a href="https://linkedin.com/in/sharon-wakade-448058217">LinkedIn</a> • <a href="https://github.com/sharonwakade8-blip">GitHub</a> • <a href="mailto:sharonwakade8@gmail.com">Email</a>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=sharonwakade8-blip&theme=tokyonight&hide_border=true">
-
-</div>
-
----
-
-## 🔐 Developer Mindset
-
-```bash
-$ whoami
-
-sharon_wakade
-
-$ cat mission.txt
-
-Build → Learn → Experiment → Deploy → Improve
-
-$ focus
-
-AI + Data + Engineering
-
-$ next
-
-Build intelligent systems that solve real-world problems.
-```
-
----
-
-## 📚 Currently Exploring
-
-* Advanced Machine Learning
-* Generative AI
-* Large Language Models
-* RAG Architecture
-* Vector Databases
-* AI Agents
-* MLOps
-* Cloud Deployment
-* System Design
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-**Open to opportunities in Data Science, AI/ML and Generative AI.**
-
-<br>
-
-<a href="https://github.com/sharonwakade8-blip">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-</a>
-
-<a href="[YOUR_LINKEDIN]">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="mailto:[YOUR_EMAIL]">
-<img src="https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail">
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-```text
-01001001 01001110 01010100 01000101 01001100 01001100 01001001 01000111 01000101 01001110 01000011 01000101
-```
-
-### `Building the future with AI. 🚀`
+⭐ **Feel free to explore my repositories and projects!**
 
 </div>
