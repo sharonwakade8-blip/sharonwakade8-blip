@@ -1,141 +1,283 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0a1f,50:4c1d95,100:6366f1&height=200&section=header&text=Sharon%20Wakade&fontColor=e9d5ff&fontSize=52&fontAlignY=38&desc=Data%20Scientist%20%7C%20Machine%20Learning%20%7C%20AI&descAlignY=60&descSize=18" width="100%" alt="header" />
+# 👋 Hi, I'm Sharon Wakade
 
-### ✨ Turning data into decisions — and models into products ✨
+### 🤖 Data Scientist • AI/ML Engineer • Python Developer
 
-<img src="Assets/output.gif" width="480" alt="Animated superhero poster" />
+**Building intelligent systems with Machine Learning, Generative AI & modern data technologies.**
 
-<br/>
-
-<a href="https://github.com/sharonwakade8-blip"><img src="https://skillicons.dev/icons?i=github" height="44" alt="GitHub" /></a>&nbsp;&nbsp;
-<a href="[YOUR_LINKEDIN]"><img src="https://skillicons.dev/icons?i=linkedin" height="44" alt="LinkedIn" /></a>&nbsp;&nbsp;
-<a href="[YOUR_INSTAGRAM]"><img src="https://skillicons.dev/icons?i=instagram" height="44" alt="Instagram" /></a>&nbsp;&nbsp;
-<a href="[YOUR_WEBSITE]"><img src="https://skillicons.dev/icons?i=vercel" height="44" alt="Portfolio" /></a>&nbsp;&nbsp;
-<a href="mailto:[YOUR_EMAIL]"><img src="https://skillicons.dev/icons?i=gmail" height="44" alt="Email" /></a>
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=sharonwakade8-blip&label=Profile%20Views&color=6d28d9&style=for-the-badge)
-![Location](https://img.shields.io/badge/Pune%2C%20India-4c1d95?style=for-the-badge&logo=googlemaps&logoColor=white)
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-6366f1?style=for-the-badge)
+<p>
+  <a href="https://github.com/sharonwakade8-blip">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="[YOUR_LINKEDIN]">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="[YOUR_INSTAGRAM]">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="[YOUR_WEBSITE]">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="mailto:[YOUR_EMAIL]">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+<div align="center">
 
-```yaml
-name:       Sharon Wakade
-role:       Data Scientist / ML Engineer (Entry-Level)
-education:  M.Sc. Data Science & Machine Learning — SPPU & JKC, Pune (2026)
-experience: 2 × DS/ML internships · 1.5 yrs Data Operations
-focus:      LLMs · RAG · Reinforcement Learning · Predictive Modeling
+## 🚀 My AI Journey
+
+</div>
+
+I'm a **Data Science and AI/ML enthusiast** focused on transforming data into intelligent, practical solutions.
+
+I enjoy working across the complete AI/ML lifecycle — from **data analysis and model development to deployment, APIs, cloud infrastructure, and Generative AI applications**.
+
+Currently exploring and building with:
+
+* 🧠 Machine Learning & Deep Learning
+* 🤖 Generative AI & LLM Applications
+* ✨ Prompt Engineering
+* 🔎 Vector Databases & RAG
+* 🐍 Python & AI/ML ecosystems
+* ⚡ FastAPI & Django
+* ☁️ AWS & Cloud Deployment
+* 🐳 Docker & MLOps
+* 🗄️ PostgreSQL, MongoDB & Redis
+* 🏗️ System Design
+
+---
+
+<div align="center">
+
+## 🦸‍♂️ AI • ML • DATA • CODE
+
+<img src="./Assets/output.gif" width="600" alt="Sharon Wakade - AI/ML Superhero" />
+
+</div>
+
+---
+
+## 💡 About Me
+
+```python
+class SharonWakade:
+
+    role = "Data Scientist | AI/ML Engineer"
+
+    focus = [
+        "Data Science",
+        "Machine Learning",
+        "Artificial Intelligence",
+        "Generative AI",
+        "LLM Applications",
+        "RAG Systems"
+    ]
+
+    currently_learning = [
+        "Advanced Machine Learning",
+        "LLMs",
+        "Prompt Engineering",
+        "Vector Databases",
+        "System Design",
+        "MLOps"
+    ]
+
+    ask_me_about = [
+        "Python",
+        "Machine Learning",
+        "Data Science",
+        "AI",
+        "LLMs",
+        "Generative AI",
+        "APIs",
+        "Docker",
+        "AWS"
+    ]
+
+    goal = "Build intelligent systems that solve real-world problems."
 ```
 
-- 🔭 **Currently building:** LLM-powered and vector-search applications
-- 🌱 **Learning:** production ML, MLOps and agentic AI systems
-- 💬 **Ask me about:** machine learning, reinforcement learning, RAG, predictive maintenance, data pipelines
-- 🎯 **Looking for:** entry-level Data Science / ML roles
+---
+
+# 🛠️ Tech Arsenal
+
+## 🐍 Programming & AI/ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark" />
+</p>
+
+**Python • Machine Learning • Deep Learning • PyTorch • TensorFlow • Scikit-learn**
 
 ---
 
-## 🚀 Featured Projects
+## 🧠 Generative AI
 
-<details>
-<summary><b>⚖️ LexiGuard AI</b> &nbsp;·&nbsp; <i>LLM-powered legal document intelligence</i></summary>
-<br/>
+<p>
+<img src="https://skillicons.dev/icons?i=python&theme=dark" />
+</p>
 
-[DESCRIBE: what it does, key result]
-
-![Python](https://img.shields.io/badge/Python-4c1d95?style=flat-square&logo=python&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM-6d28d9?style=flat-square)
-[![Repo](https://img.shields.io/badge/View%20Repo-6366f1?style=flat-square&logo=github&logoColor=white)](https://github.com/sharonwakade8-blip/[REPO_NAME])
-
-</details>
-
-<details>
-<summary><b>✈️ Airline Dynamic Pricing</b> &nbsp;·&nbsp; <i>Reinforcement learning for fare optimization</i></summary>
-<br/>
-
-[DESCRIBE: environment, algorithm, key result]
-
-![Python](https://img.shields.io/badge/Python-4c1d95?style=flat-square&logo=python&logoColor=white)
-![RL](https://img.shields.io/badge/Reinforcement%20Learning-6d28d9?style=flat-square)
-[![Repo](https://img.shields.io/badge/View%20Repo-6366f1?style=flat-square&logo=github&logoColor=white)](https://github.com/sharonwakade8-blip/[REPO_NAME])
-
-</details>
-
-<details>
-<summary><b>🧵 VectorLoom</b> &nbsp;·&nbsp; <i>Vector search and retrieval</i></summary>
-<br/>
-
-[DESCRIBE: what it does, key result]
-
-![Python](https://img.shields.io/badge/Python-4c1d95?style=flat-square&logo=python&logoColor=white)
-![Vector DB](https://img.shields.io/badge/Vector%20DB-6d28d9?style=flat-square)
-[![Repo](https://img.shields.io/badge/View%20Repo-6366f1?style=flat-square&logo=github&logoColor=white)](https://github.com/sharonwakade8-blip/[REPO_NAME])
-
-</details>
-
-<details>
-<summary><b>🔧 Contextual Predictive Maintenance</b> &nbsp;·&nbsp; <i>Failure prediction from sensor context</i></summary>
-<br/>
-
-[DESCRIBE: data, model, key result]
-
-![Python](https://img.shields.io/badge/Python-4c1d95?style=flat-square&logo=python&logoColor=white)
-![ML](https://img.shields.io/badge/Machine%20Learning-6d28d9?style=flat-square)
-[![Repo](https://img.shields.io/badge/View%20Repo-6366f1?style=flat-square&logo=github&logoColor=white)](https://github.com/sharonwakade8-blip/[REPO_NAME])
-
-</details>
+* LLM Applications
+* Generative AI
+* Prompt Engineering
+* Retrieval-Augmented Generation
+* Embeddings
+* Vector Databases
+* AI Agents
+* NLP
 
 ---
-## 🛠️ Tech Arsenal
+
+## ⚙️ Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,django,fastapi&theme=dark" />
+</p>
+
+**Python • Django • FastAPI • REST APIs**
+
+---
+
+## ⚛️ Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,javascript,html,css&theme=dark" />
+</p>
+
+**React • JavaScript • HTML5 • CSS3**
+
+---
+
+## ☁️ Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github&theme=dark" />
+</p>
+
+**AWS • Docker • Git • GitHub**
+
+---
+
+## 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark" />
+</p>
+
+**PostgreSQL • MongoDB • Redis**
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-### 🤖 AI / ML
+<img src="https://github-readme-stats.vercel.app/api?username=sharonwakade8-blip&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark" alt="AI/ML" />
+<br/>
 
-### 📊 Data
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharonwakade8-blip&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://skillicons.dev/icons?i=pandas,numpy,postgres,mysql&theme=dark" alt="Data" />
+<br/>
 
-### 🧰 Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker&theme=dark" alt="Tools" />
+<img src="https://streak-stats.demolab.com?user=sharonwakade8-blip&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+# 🏆 GitHub Trophies
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sharonwakade8-blip&show_icons=true&hide_border=true&bg_color=0f0a1f&title_color=a78bfa&icon_color=8b5cf6&text_color=e9d5ff" alt="GitHub Stats" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharonwakade8-blip&layout=compact&hide_border=true&bg_color=0f0a1f&title_color=a78bfa&text_color=e9d5ff" alt="Top Languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=sharonwakade8-blip&hide_border=true&background=0f0a1f&ring=8b5cf6&fire=a78bfa&currStreakLabel=e9d5ff&sideLabels=e9d5ff&currStreakNum=e9d5ff&sideNums=e9d5ff&dates=a78bfa" alt="GitHub Streak" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=sharonwakade8-blip&theme=onedark&no-frame=true&margin-w=8&column=7" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=sharonwakade8-blip&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6" />
 
 </div>
 
+---
 
+# 📈 Contribution Activity
 
-### 📬 Let's connect
+<div align="center">
 
-Open to entry-level Data Science and ML opportunities.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sharonwakade8-blip&theme=tokyo-night&hide_border=true" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:4c1d95,100:0f0a1f&height=100&section=footer" width="100%" alt="footer" />
+</div>
+
+---
+
+# 🔥 Featured Projects
+
+<div align="center">
+
+### 🤖 AI / ML Projects
+
+Machine Learning • Deep Learning • Generative AI • LLMs
+
+### 📊 Data Science Projects
+
+Data Analysis • Visualization • Predictive Modeling
+
+### 🚀 AI Applications
+
+RAG • APIs • Vector Search • AI Automation
+
+</div>
+
+> 🚧 More projects are continuously being built and added.
+
+---
+
+# 🌱 Currently Learning
+
+```text
+Generative AI       ████████████████████░░  90%
+Machine Learning    ███████████████████░░░  85%
+Python              █████████████████████░  95%
+LLM Applications    ██████████████████░░░░  80%
+RAG / Vector DB     ████████████████░░░░░  75%
+MLOps               ██████████████░░░░░░░  65%
+System Design       █████████████░░░░░░░░  60%
+```
+
+---
+
+# 💬 Let's Connect
+
+<div align="center">
+
+I'm interested in opportunities involving:
+
+**Data Science • Machine Learning • Artificial Intelligence • Generative AI • LLMs**
+
+<br/>
+
+<a href="https://github.com/sharonwakade8-blip">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="[YOUR_LINKEDIN]">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:[YOUR_EMAIL]">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**Turning data into intelligence. Turning ideas into AI. 🚀**
 
 </div>
